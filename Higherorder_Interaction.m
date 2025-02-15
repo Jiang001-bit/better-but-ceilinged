@@ -1,4 +1,4 @@
-%Subtitle: The demonstration of higher-order interaction, corresponding to figure 6 in the paper. 
+%Subtitle: The demonstration of higher-order interaction, corresponding to figure 5 in the paper. 
 
 %Remarks: This code calculates the dynamical limit of Simplex (1,2,3)
 %         This code presents the dynamical potential
