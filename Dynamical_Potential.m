@@ -5,7 +5,7 @@
 
 % Step 1: Get the different potentials of the network.
 
-A %!!!the adjacency matrix A of the network needs to be given manually   A_1---fig3_BA network; A_2---fig3_ER nework; A_3---fig3_Ws network
+A %!!!the adjacency matrix A of the network needs to be given manually   A_1---fig3_BA network; A_2---fig3_ER nework; A_3---fig3_WS network
 
 s=sum(A,2);
 L=diag(s)-A
