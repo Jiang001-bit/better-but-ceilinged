@@ -3,5 +3,5 @@ This is the code that serves the paper "Better but Ceilinged: Collective network
 
 There are subtitles in the. m file. Each subtitle indicates the corresponding relationship between the code and the figure in the paper.
 
-Author: Siyang, Jiang (jiangsiyang@whu.edu.cn)
+Contact: Siyang, Jiang (jiangsiyang@whu.edu.cn)
 
