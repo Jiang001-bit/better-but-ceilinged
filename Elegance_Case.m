@@ -1,4 +1,4 @@
-%Subtitle: Diverse Potentials of C.elegance network, corresponding to figure 4 in the paper. 
+%Subtitle: Diverse Potentials of C.elegance network, corresponding to figure 5 in the paper. 
 
 %Remarks: This code presents the potential value and potential ratio
 
